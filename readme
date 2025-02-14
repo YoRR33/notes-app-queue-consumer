@@ -1,5 +1,5 @@
 # Langkah run dan testing pada prject ini
 
-1. Ketik dan jalankan "node run start" pada terminal
+1. Jalankan program "notes-back-end" dengan ketik node npm run start
 2. Lakukan run testing pada postman
 3. Ketik dan jalankan "node src/consumer.js" pada terminal
