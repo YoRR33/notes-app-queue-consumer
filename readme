@@ -1,0 +1,5 @@
+# Langkah run dan testing pada prject ini
+
+1. Ketik dan jalankan "node run start" pada terminal
+2. Lakukan run testing pada postman
+3. Ketik dan jalankan "node src/consumer.js" pada terminal
